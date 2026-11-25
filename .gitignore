@@ -1,0 +1,10 @@
+# working data: captures, build output, crew notes and reference images, the capture queue
+qa/
+dist/
+docs/
+tools/queue/
+tools/__pycache__/
+tools/voice_ears.py
+*.wav
+*.mp4
+.DS_Store
